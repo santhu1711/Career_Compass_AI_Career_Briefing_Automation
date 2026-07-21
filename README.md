@@ -62,6 +62,32 @@ This removes the need to manually search for industry news while keeping profess
 
 ---
 
+---
+
+# 🏗️ Workflow Architecture
+
+```text
+Schedule Trigger (5:00 PM)
+          │
+          ▼
+      RSS Feed
+          │
+          ▼
+   Top 3 AI Articles
+          │
+          ▼
+      Claude AI
+          │
+   ┌──────┼────────┐
+   ▼      ▼        ▼
+AI News Motivation Health Tip
+          │
+          ▼
+      Gmail API
+          │
+          ▼
+        User
+
 # 📂 Repository Structure
 
 ```text
