@@ -110,17 +110,17 @@ Career_Compass_AI_Career_Briefing_Automation
 
 ---
 
-# ⚙️ Workflow
+## ⚙️ Workflow
 
-1. Schedule Trigger runs every day at **5:00 PM**
-2. RSS Feed fetches AI news
-3. Limit node selects the top 3 articles
-4. Claude AI summarizes the news
+1. Schedule Trigger runs every day at **5:00 PM**.
+2. RSS Feed fetches the latest AI news.
+3. The Limit node selects the top 3 articles.
+4. Claude AI summarizes the articles.
 5. Claude AI generates:
    - AI Industry Update
    - Career Motivation
-   - Health Tip
-6. Gmail sends the briefing automatically
+   - Daily Health Tip
+6. Gmail sends the final briefing automatically.
 
 ---
 
@@ -144,45 +144,41 @@ Career_Compass_AI_Career_Briefing_Automation
 
 ---
 
-# 📄 Documentation
+## 📄 Documentation
 
-Complete project documentation is available in the **docs** folder.
+The complete project documentation, workflow explanation, setup guide, and implementation details are available in:
+
+`docs/Project_Documentation.pdf`
 
 ---
 
-# 🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 - LinkedIn Job Recommendations
 - Resume Improvement Suggestions
 - AI Interview Questions
-- Slack & Microsoft Teams Integration
+- Slack Integration
+- Microsoft Teams Integration
 - WhatsApp Notifications
 - Google Calendar Integration
-- Daily Coding Challenge
+- Daily Coding Challenges
 - Voice Assistant Support
 
 ---
 
-# 📈 Project Outcome
+## 📈 Project Outcome
 
-✔ Automated daily career briefing
-
-✔ Reduced manual effort
-
-✔ Personalized AI-generated insights
-
-✔ Improved awareness of AI industry trends
-
-✔ Practical motivation and health guidance
+- ✅ Automated daily career briefing
+- ✅ Reduced manual effort
+- ✅ Personalized AI-generated insights
+- ✅ Improved awareness of AI industry trends
+- ✅ Practical motivation and health guidance
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Santhosh S.**
 
-GitHub: https://github.com/santhu1711
-
-LinkedIn: https://www.linkedin.com/in/santhosh17/final
-
----
+- GitHub: https://github.com/santhu1711
+- LinkedIn: https://www.linkedin.com/in/santhosh17/
